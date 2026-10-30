@@ -4,6 +4,8 @@
 
 **[Tải bản mới nhất](https://github.com/Thanhnghia889/ngay-gon/releases/latest)**
 
+[Hướng dẫn cập nhật, quyền và các giới hạn](HUONG-DAN.md)
+
 ## Cài và cập nhật
 
 1. Tải APK trong mục Releases và mở trên điện thoại Android 8 trở lên.
